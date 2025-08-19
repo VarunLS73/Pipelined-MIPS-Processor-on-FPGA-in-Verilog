@@ -1,0 +1,7 @@
+Running: xsim.dir/mipstb_behav/xsimk.exe -simmode gui -wdb mipstb_behav.wdb -simrunnum 0 -socket 53115
+Design successfully loaded
+Design Loading Memory Usage: 9696 KB (Peak: 9696 KB)
+Design Loading CPU Usage: 46 ms
+Simulation completed
+Simulation Memory Usage: 10424 KB (Peak: 10424 KB)
+Simulation CPU Usage: 46 ms

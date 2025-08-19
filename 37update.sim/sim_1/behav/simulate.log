@@ -1,0 +1,26 @@
+Vivado Simulator 2016.2
+Time resolution is 1 ps
+==== Starting 16-bit MIPS Testbench ====
+Time=0 | Instruction=xxxxxxxxxxxxxxxx | Result=0 (0x0000)
+Time=20000 | Instruction=0001010011001000 | Result=0 (0x0000)
+Time=30000 | Instruction=0001010011001000 | Result=5 (0x0005)
+Time=40000 | Instruction=0011010011001000 | Result=5 (0x0005)
+Time=50000 | Instruction=0011010011001000 | Result=6 (0x0006)
+Time=60000 | Instruction=0100101110100000 | Result=6 (0x0006)
+Time=70000 | Instruction=0100101110100000 | Result=5 (0x0005)
+Time=80000 | Instruction=0101101110111000 | Result=5 (0x0005)
+Time=90000 | Instruction=0101101110111000 | Result=4 (0x0004)
+Time=100000 | Instruction=0110101110111000 | Result=4 (0x0004)
+Time=110000 | Instruction=0110101110111000 | Result=20 (0x0014)
+Time=120000 | Instruction=0111010011000000 | Result=20 (0x0014)
+Time=130000 | Instruction=0111010011000000 | Result=1 (0x0001)
+Time=140000 | Instruction=1000010011000000 | Result=1 (0x0001)
+Time=150000 | Instruction=1000010011000000 | Result=65532 (0xfffc)
+Time=160000 | Instruction=0010101110100000 | Result=65532 (0xfffc)
+Time=170000 | Instruction=0010101110100000 | Result=16 (0x0010)
+Time=180000 | Instruction=1001010011001000 | Result=16 (0x0010)
+Time=190000 | Instruction=1001010011001000 | Result=12 (0x000c)
+Time=200000 | Instruction=1010010011001000 | Result=12 (0x000c)
+Time=210000 | Instruction=1010010011001000 | Result=0 (0x0000)
+Time=220000 | Instruction=0000011000011001 | Result=0 (0x0000)
+==== Simulation Completed ====
